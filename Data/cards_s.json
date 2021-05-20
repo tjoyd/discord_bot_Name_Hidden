@@ -1,0 +1,68 @@
+{
+    "0": {
+        "name": "Aqua",
+        "image": "https://cdn.animesoul.com/images/cards/S/1599156108718.gif",
+        "tier": "S",
+        "link": "https://animesoul.com/cards/info/5f512f8cda850d527bf2d5d4"
+    },
+    "1": {
+        "name": "Endeavor",
+        "image": "https://cdn.animesoul.com/images/cards/S/1591010198395.gif",
+        "tier": "S",
+        "link": "https://animesoul.com/cards/info/5ed4e396d916ea17b2666722"
+    },
+    "2": {
+        "name": "Esdeath",
+        "image": "https://cdn.animesoul.com/images/cards/S/1593419469.gif",
+        "tier": "S",
+        "link": "https://animesoul.com/cards/info/5ef54544b098af1b5a654d85"
+    },
+    "3": {
+        "name": "Kanna Kamui",
+        "image": "https://cdn.animesoul.com/images/cards/S/1602064112000.gif",
+        "tier": "S",
+        "link": "https://animesoul.com/cards/info/5f7c8f6d361be22eb222e7ee"
+    },
+    "4": {
+        "name": "Madara Uchiha",
+        "image": "https://cdn.animesoul.com/images/cards/S/1601222638407.gif",
+        "tier": "S",
+        "link": "https://animesoul.com/cards/info/5f70b7ee59bfd149e61d489b"
+    },
+    "5": {
+        "name": "Nami",
+        "image": "https://cdn.animesoul.com/images/cards/S/1590511727366.gif",
+        "tier": "S",
+        "link": "https://animesoul.com/cards/info/5ecd486fadc24b50ebac3671"
+    },
+    "6": {
+        "name": "Roronoa Zoro",
+        "image": "https://cdn.animesoul.com/images/cards/S/1596374283117.gif",
+        "tier": "S",
+        "link": "https://animesoul.com/cards/info/5f26bd0b09db8f2b75172d72"
+    },
+    "7": {
+        "name": "Senjougahara Hitagi",
+        "image": "https://cdn.animesoul.com/images/cards/S/1596127285477.gif",
+        "tier": "S",
+        "link": "https://animesoul.com/cards/info/5f22f8359ec92c47d91928db"
+    },
+    "8": {
+        "name": "Senko",
+        "image": "https://cdn.animesoul.com/images/cards/S/1604328535728.gif",
+        "tier": "S",
+        "link": "https://animesoul.com/cards/info/5fa01c57cf9ee71ec848e2ef"
+    },
+    "9": {
+        "name": "Shoob",
+        "image": "https://cdn.animesoul.com/images/cards/S/1595521259251.gif",
+        "tier": "S",
+        "link": "https://animesoul.com/cards/info/5f19b8ebc20057376d6ba28a"
+    },
+    "10": {
+        "name": "Zero Two",
+        "image": "https://cdn.animesoul.com/images/cards/S/1593612200233.gif",
+        "tier": "S",
+        "link": "https://animesoul.com/cards/info/5efc97a8fdac161d638f0dee"
+    }
+}

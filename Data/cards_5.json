@@ -1,0 +1,2312 @@
+{
+    "0": {
+        "name": "2B",
+        "image": "https://cdn.animesoul.com/images/cards/5/1596667649040.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5f2b3701a5a84e32a258df1b"
+    },
+    "1": {
+        "name": "9S",
+        "image": "https://cdn.animesoul.com/images/cards/5/1596667686958.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5f2b37266f0f57315fc8064c"
+    },
+    "2": {
+        "name": "Ai Hayasaka",
+        "image": "https://cdn.animesoul.com/images/cards/5/1596668943141.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5f2b3c0fc990fd31f4cbe101"
+    },
+    "3": {
+        "name": "Aigis",
+        "image": "https://cdn.animesoul.com/images/cards/5/1593724930446.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5efe5002b78ee4261652516e"
+    },
+    "4": {
+        "name": "Ais Wallenstein",
+        "image": "https://cdn.animesoul.com/images/cards/5/1578708729810.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5e192ef9ecd9c87085f55f0e"
+    },
+    "5": {
+        "name": "Aizen",
+        "image": "https://cdn.animesoul.com/images/cards/5/1572135699860.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5db4e3138ed9e66176623227"
+    },
+    "6": {
+        "name": "Akame",
+        "image": "https://cdn.animesoul.com/images/cards/5/1599415786829.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5e324bcf53504f60eb629606"
+    },
+    "7": {
+        "name": "Akane Shinjo",
+        "image": "https://cdn.animesoul.com/images/cards/5/1599407973251.Gridman,Sociopath,Batch%2017",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5f55076566ce8f1173a1f0e4"
+    },
+    "8": {
+        "name": "Akatsuki",
+        "image": "https://cdn.animesoul.com/images/cards/5/1572135720117.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5db4e3288ed9e66176623228"
+    },
+    "9": {
+        "name": "Akeno Himejima",
+        "image": "https://cdn.animesoul.com/images/cards/5/1602339413195.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5f8266dacfcd615c4c3cabec"
+    },
+    "10": {
+        "name": "Albedo",
+        "image": "https://cdn.animesoul.com/images/cards/5/1572135738306.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5db4e33a8ed9e66176623229"
+    },
+    "11": {
+        "name": "Alice Baskerville",
+        "image": "https://cdn.animesoul.com/images/cards/5/1599407995408.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5f55077b66ce8f1173a1f0e5"
+    },
+    "12": {
+        "name": "Alice Nakiri",
+        "image": "https://cdn.animesoul.com/images/cards/5/1578708757834.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5e192f15ecd9c87085f55f0f"
+    },
+    "13": {
+        "name": "Alphonse Elric",
+        "image": "https://cdn.animesoul.com/images/cards/5/Alphonse_Elric;5;Fullmetal_Alchemist,Puppy.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5d7577216f818277a57e568b"
+    },
+    "14": {
+        "name": "Android 17",
+        "image": "https://cdn.animesoul.com/images/cards/5/1593727544639.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5efe5a3813305613e8ccd92a"
+    },
+    "15": {
+        "name": "Ann Takamaki",
+        "image": "https://cdn.animesoul.com/images/cards/5/1585700874803.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5e83e00afcb6fc7cb8116dc6"
+    },
+    "16": {
+        "name": "Anna",
+        "image": "https://cdn.animesoul.com/images/cards/5/1585700889509.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5e83e0198940967db94fe3de"
+    },
+    "17": {
+        "name": "Anna Nishikinomiya",
+        "image": "https://cdn.animesoul.com/images/cards/5/1578708777913.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5e192f29ecd9c87085f55f10"
+    },
+    "18": {
+        "name": "Anri Sonohara",
+        "image": "https://cdn.animesoul.com/images/cards/5/1599415583272.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5db4e34f8ed9e6617662322a"
+    },
+    "19": {
+        "name": "Aoba Suzukaze and Hifumi Takimoto",
+        "image": "https://cdn.animesoul.com/images/cards/5/1596667737431.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5f2b3759bc8e0e31a419e4dd"
+    },
+    "20": {
+        "name": "Aria H Kanzaki",
+        "image": "https://cdn.animesoul.com/images/cards/5/1596667776614.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5f2b378039e0d431ee8c0ea8"
+    },
+    "21": {
+        "name": "Ash Greninja",
+        "image": "https://cdn.animesoul.com/images/cards/5/1596670222758.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5f2b410ed577ff66e7ec9aa1"
+    },
+    "22": {
+        "name": "Ash Lynx and Eiji Okumura",
+        "image": "https://cdn.animesoul.com/images/cards/5/1602346656310.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5f8266dacfcd615c4c3cad40"
+    },
+    "23": {
+        "name": "Astolfo",
+        "image": "https://cdn.animesoul.com/images/cards/5/1596688276634.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5d1e8358a5f79d12c938c3f0"
+    },
+    "24": {
+        "name": "Asui Tsuyu and Uraraka Ochako",
+        "image": "https://cdn.animesoul.com/images/cards/5/1580745563693.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5e38435b3832f35ec359a52e"
+    },
+    "25": {
+        "name": "Asuka Langley",
+        "image": "https://cdn.animesoul.com/images/cards/5/Asuka_Langley;5;Neon_Genesis_Evangelion,Original.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5d7577216f818277a57e5692"
+    },
+    "26": {
+        "name": "Asuna",
+        "image": "https://cdn.animesoul.com/images/cards/5/Asuna;5;Sword_Art_Online,Original.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5d7577216f818277a57e5698"
+    },
+    "27": {
+        "name": "Aya Asigiri",
+        "image": "https://cdn.animesoul.com/images/cards/5/1604917502799.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5e657eba4f66dd2379337229"
+    },
+    "28": {
+        "name": "Aya Maruyama",
+        "image": "https://cdn.animesoul.com/images/cards/5/1591045441886.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5ed56d41712f5e252251754b"
+    },
+    "29": {
+        "name": "Ayano Tateyama",
+        "image": "https://cdn.animesoul.com/images/cards/5/1572148275576.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5db514333dae9938bfa6f5e6"
+    },
+    "30": {
+        "name": "Ayase Chihaya",
+        "image": "https://cdn.animesoul.com/images/cards/5/1572135845932.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5db4e3a58ed9e6617662322c"
+    },
+    "31": {
+        "name": "Ayu Tsukimiya",
+        "image": "https://cdn.animesoul.com/images/cards/5/1572135892620.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5db4e3d48ed9e6617662322d"
+    },
+    "32": {
+        "name": "Azami",
+        "image": "https://cdn.animesoul.com/images/cards/5/1572135911034.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5db4e3e78ed9e6617662322e"
+    },
+    "33": {
+        "name": "Ban",
+        "image": "https://cdn.animesoul.com/images/cards/5/Ban;5;The_Seven_Deadly_Sins,Greed.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5d7577216f818277a57e568c"
+    },
+    "34": {
+        "name": "Basara and Chisato",
+        "image": "https://cdn.animesoul.com/images/cards/5/1602373945083.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5f8266dbcfcd615c4c3cb244"
+    },
+    "35": {
+        "name": "Basara and Yuki",
+        "image": "https://cdn.animesoul.com/images/cards/5/1602373978988.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5f8266dbcfcd615c4c3cb246"
+    },
+    "36": {
+        "name": "Belldandy",
+        "image": "https://cdn.animesoul.com/images/cards/5/1578708803178.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5e192f43ecd9c87085f55f11"
+    },
+    "37": {
+        "name": "Benio Adashino",
+        "image": "https://cdn.animesoul.com/images/cards/5/1602374010968.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5f8266dbcfcd615c4c3cb248"
+    },
+    "38": {
+        "name": "Benio and Rokuro",
+        "image": "https://cdn.animesoul.com/images/cards/5/1602374048896.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5f8266dbcfcd615c4c3cb24a"
+    },
+    "39": {
+        "name": "Black Hanekawa",
+        "image": "https://cdn.animesoul.com/images/cards/5/1575180135529.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5de357674ecd7863e16a1dc3"
+    },
+    "40": {
+        "name": "Blake Belladonna",
+        "image": "https://cdn.animesoul.com/images/cards/5/Blake_Belladonna;5;RWBY,Original.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5d3112776b245e5b11e59d5a"
+    },
+    "41": {
+        "name": "Bobobo-bo Bo-bobo",
+        "image": "https://cdn.animesoul.com/images/cards/5/1575180152594.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5de357784ecd7863e16a1dc4"
+    },
+    "42": {
+        "name": "Broly",
+        "image": "https://cdn.animesoul.com/images/cards/5/1572135934142.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5db4e3fe8ed9e6617662322f"
+    },
+    "43": {
+        "name": "C.C.",
+        "image": "https://cdn.animesoul.com/images/cards/5/1599419815874.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5d1e8358a5f79d12c938c3f1"
+    },
+    "44": {
+        "name": "Caesar Zeppeli",
+        "image": "https://cdn.animesoul.com/images/cards/5/1591045470725.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5ed56d5e55ee1425460bb527"
+    },
+    "45": {
+        "name": "Camilla",
+        "image": "https://cdn.animesoul.com/images/cards/5/1591045489249.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5ed56d71feeb81254d8e96ef"
+    },
+    "46": {
+        "name": "Catarina Claes",
+        "image": "https://cdn.animesoul.com/images/cards/5/1599412757676.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5f551a151922946fdccb51bb"
+    },
+    "47": {
+        "name": "Celty Sturluson",
+        "image": "https://cdn.animesoul.com/images/cards/5/1596688389661.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5d3112776b245e5b11e59d50"
+    },
+    "48": {
+        "name": "Chaika",
+        "image": "https://cdn.animesoul.com/images/cards/5/1572135953962.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5db4e4118ed9e66176623230"
+    },
+    "49": {
+        "name": "Char Aznable",
+        "image": "https://cdn.animesoul.com/images/cards/5/Char_Aznable;5;Gundam,Original.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5d57539bc1fc102f955f9af1"
+    },
+    "50": {
+        "name": "Chibiusa Tsukino",
+        "image": "https://cdn.animesoul.com/images/cards/5/1572135983547.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5db4e42f8ed9e66176623231"
+    },
+    "51": {
+        "name": "Chii",
+        "image": "https://cdn.animesoul.com/images/cards/5/1599408023445.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5f55079766ce8f1173a1f0e6"
+    },
+    "52": {
+        "name": "Chika Fujiwara",
+        "image": "https://cdn.animesoul.com/images/cards/5/1599415537780.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5d7577216f818277a57e568d"
+    },
+    "53": {
+        "name": "Chino Kafuu",
+        "image": "https://cdn.animesoul.com/images/cards/5/1599408042703.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5f5507aa8e7f7011b162024a"
+    },
+    "54": {
+        "name": "Chitoge Kirisaki",
+        "image": "https://cdn.animesoul.com/images/cards/5/1580745638427.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5e3843a63832f35ec359a532"
+    },
+    "55": {
+        "name": "Chrome",
+        "image": "https://cdn.animesoul.com/images/cards/5/1580745683028.%20Stone,Original,Batch%208",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5e3843d3c10ad85ea9d31244"
+    },
+    "56": {
+        "name": "Chtholly Nota Seniorious",
+        "image": "https://cdn.animesoul.com/images/cards/5/Chtholly;5;SukaSuka,Mental_Disintegration.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5d7577216f818277a57e568a"
+    },
+    "57": {
+        "name": "Chuuya Nakahara",
+        "image": "https://cdn.animesoul.com/images/cards/5/1593727562662.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5efe5a4a96b54712f305c48c"
+    },
+    "58": {
+        "name": "Ciel Phantomhive",
+        "image": "https://cdn.animesoul.com/images/cards/5/1602379301211.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5f8266dbcfcd615c4c3cb262"
+    },
+    "59": {
+        "name": "Corazon",
+        "image": "https://cdn.animesoul.com/images/cards/5/1602339974296.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5f8266dacfcd615c4c3cac08"
+    },
+    "60": {
+        "name": "Corrin",
+        "image": "https://cdn.animesoul.com/images/cards/5/1585700903116.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5e83e027fcb6fc7cb8116dc9"
+    },
+    "61": {
+        "name": "Dabi",
+        "image": "https://cdn.animesoul.com/images/cards/5/1586773032902.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5e943c28045cae5f0e1e7618"
+    },
+    "62": {
+        "name": "Death The Kid",
+        "image": "https://cdn.animesoul.com/images/cards/5/Death_The_Kid;5;Soul_Eater,Original.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5d57539bc1fc102f955f9aeb"
+    },
+    "63": {
+        "name": "Demiurge",
+        "image": "https://cdn.animesoul.com/images/cards/5/1602373714742.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5f8266dbcfcd615c4c3cb242"
+    },
+    "64": {
+        "name": "Diablo",
+        "image": "https://cdn.animesoul.com/images/cards/5/1593727592226.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5efe5a6896b54712f305c48d"
+    },
+    "65": {
+        "name": "Dimple",
+        "image": "https://cdn.animesoul.com/images/cards/5/1596667810369.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5f2b37a2f9a16332281eec30"
+    },
+    "66": {
+        "name": "Emilia",
+        "image": "https://cdn.animesoul.com/images/cards/5/1596688453086.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5e384710f62b195e095d5ac0"
+    },
+    "67": {
+        "name": "Eraserhead",
+        "image": "https://cdn.animesoul.com/images/cards/5/1599412772559.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5f551a246953786f71d87e0f"
+    },
+    "68": {
+        "name": "Ereshkigal",
+        "image": "https://cdn.animesoul.com/images/cards/5/1593727620435.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5efe5a8413305613e8ccd960"
+    },
+    "69": {
+        "name": "Eri",
+        "image": "https://cdn.animesoul.com/images/cards/5/1593727645917.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5efe5a9d7743e412f9871824"
+    },
+    "70": {
+        "name": "Erina Nakiri",
+        "image": "https://cdn.animesoul.com/images/cards/5/1572136010399.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5db4e44a8ed9e66176623232"
+    },
+    "71": {
+        "name": "Erio Touwa",
+        "image": "https://cdn.animesoul.com/images/cards/5/1572136047200.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5db4e46f8ed9e66176623233"
+    },
+    "72": {
+        "name": "Eriri Spencer",
+        "image": "https://cdn.animesoul.com/images/cards/5/1596668974037.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5f2b3c2ea5a84e32a258e213"
+    },
+    "73": {
+        "name": "Erza Scarlet",
+        "image": "https://cdn.animesoul.com/images/cards/5/Erza_Scarlet;5;Fairy_Tail,Ataraxia.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5d1e8358a5f79d12c938c3f2"
+    },
+    "74": {
+        "name": "Escanor",
+        "image": "https://cdn.animesoul.com/images/cards/5/1588821503835.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5eb37dff99982e16d14eb348"
+    },
+    "75": {
+        "name": "Etna",
+        "image": "https://cdn.animesoul.com/images/cards/5/1578708819045.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5e192f53ecd9c87085f55f12"
+    },
+    "76": {
+        "name": "Eto",
+        "image": "https://cdn.animesoul.com/images/cards/5/Eto;5;Tokyo_Ghoul,Bandages.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5d3112776b245e5b11e59d5b"
+    },
+    "77": {
+        "name": "Filo",
+        "image": "https://cdn.animesoul.com/images/cards/5/1580707453320.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5e37ae7def2d991e72a5a275"
+    },
+    "78": {
+        "name": "Frankenstein",
+        "image": "https://cdn.animesoul.com/images/cards/5/Frankenstein;5;Noblesse,Original.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5d7577216f818277a57e5693"
+    },
+    "79": {
+        "name": "Fumino Furuhashi",
+        "image": "https://cdn.animesoul.com/images/cards/5/1602340028009.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5f8266dacfcd615c4c3cac0c"
+    },
+    "80": {
+        "name": "Futaba Sakura",
+        "image": "https://cdn.animesoul.com/images/cards/5/1591045508674.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5ed56d8455ee1425460bb529"
+    },
+    "81": {
+        "name": "Gaara",
+        "image": "https://cdn.animesoul.com/images/cards/5/1602339075352.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5f8266dacfcd615c4c3cabdc"
+    },
+    "82": {
+        "name": "Gearless Joe",
+        "image": "https://cdn.animesoul.com/images/cards/5/1575180167644.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5de357874ecd7863e16a1dc5"
+    },
+    "83": {
+        "name": "Giorno And Bruno",
+        "image": "https://cdn.animesoul.com/images/cards/5/1596667859251.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5f2b37d36f0f57315fc806a8"
+    },
+    "84": {
+        "name": "Giyu Tomioka",
+        "image": "https://cdn.animesoul.com/images/cards/5/Giyu_Tomioka;5;Demon_Slayer,Original.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5d57539bc1fc102f955f9aec"
+    },
+    "85": {
+        "name": "Goblin Slayer",
+        "image": "https://cdn.animesoul.com/images/cards/5/1578708836244.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5e192f64ecd9c87085f55f13"
+    },
+    "86": {
+        "name": "Goku Black",
+        "image": "https://cdn.animesoul.com/images/cards/5/1605062974041.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5fab514e19c93759e52574e8"
+    },
+    "87": {
+        "name": "Golden Darkness",
+        "image": "https://cdn.animesoul.com/images/cards/5/Golden_Darkness;5;To_Love_Ru,Darkness.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5d7577216f818277a57e568e"
+    },
+    "88": {
+        "name": "Haise Sasaki",
+        "image": "https://cdn.animesoul.com/images/cards/5/1604977011463.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5f8266dbcfcd615c4c3cb280"
+    },
+    "89": {
+        "name": "Hajime Iwaizumi and Tooru Oikawa",
+        "image": "https://cdn.animesoul.com/images/cards/5/1599412834875.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5f551a621922946fdccb51bd"
+    },
+    "90": {
+        "name": "Hak Son",
+        "image": "https://cdn.animesoul.com/images/cards/5/Hak_Son;5;Yona_of_the_Dawn,Original.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5d57539bc1fc102f955f9aea"
+    },
+    "91": {
+        "name": "Hana Hinata Noa Kanon Koyori",
+        "image": "https://cdn.animesoul.com/images/cards/5/1602346492619.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5f8266dacfcd615c4c3cad2c"
+    },
+    "92": {
+        "name": "Hanabi Yasuraoka",
+        "image": "https://cdn.animesoul.com/images/cards/5/1602356659021.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5f8266dbcfcd615c4c3cb0c2"
+    },
+    "93": {
+        "name": "Hanekawa Tsubasa",
+        "image": "https://cdn.animesoul.com/images/cards/5/1599412784986.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5f551a301922946fdccb51bc"
+    },
+    "94": {
+        "name": "Haqua",
+        "image": "https://cdn.animesoul.com/images/cards/5/1572136073088.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5db4e4898ed9e66176623234"
+    },
+    "95": {
+        "name": "Haruhi Suzumiya",
+        "image": "https://cdn.animesoul.com/images/cards/5/Haruhi_Suzumiya;5;The_Melancholy_of_Suzumiya,Original.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5d3112776b245e5b11e59d57"
+    },
+    "96": {
+        "name": "Haruka Nanase",
+        "image": "https://cdn.animesoul.com/images/cards/5/1596669005992.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5f2b3c4ded80f032572eda51"
+    },
+    "97": {
+        "name": "Hestia",
+        "image": "https://cdn.animesoul.com/images/cards/5/1599415154450.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5d57539bc1fc102f955f9af3"
+    },
+    "98": {
+        "name": "Hibari Kyoya",
+        "image": "https://cdn.animesoul.com/images/cards/5/1572136100093.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5db4e4a48ed9e66176623235"
+    },
+    "99": {
+        "name": "Hibiki Sakura",
+        "image": "https://cdn.animesoul.com/images/cards/5/1602374181875.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5f8266dbcfcd615c4c3cb24c"
+    },
+    "100": {
+        "name": "Hikari and Iroha",
+        "image": "https://cdn.animesoul.com/images/cards/5/1593727662754.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5efe5aaefc0fdf1358a32cc9"
+    },
+    "101": {
+        "name": "Hikigaya Hachiman",
+        "image": "https://cdn.animesoul.com/images/cards/5/1596669052365.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5f2b3c7cbc8e0e31a419e864"
+    },
+    "102": {
+        "name": "Himari Uehara",
+        "image": "https://cdn.animesoul.com/images/cards/5/1593727685259.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5efe5ac52cd036145b325ea4"
+    },
+    "103": {
+        "name": "Himeko Inaba",
+        "image": "https://cdn.animesoul.com/images/cards/5/1572136122892.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5db4e4ba8ed9e66176623236"
+    },
+    "104": {
+        "name": "Himiko Toga",
+        "image": "https://cdn.animesoul.com/images/cards/5/1585700915376.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5e83e0338940967db94fe3df"
+    },
+    "105": {
+        "name": "Hina Tachibana",
+        "image": "https://cdn.animesoul.com/images/cards/5/1596669092890.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5f2b3ca4c990fd31f4cbe135"
+    },
+    "106": {
+        "name": "Hina and Rui",
+        "image": "https://cdn.animesoul.com/images/cards/5/1602374226035.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5f8266dbcfcd615c4c3cb24e"
+    },
+    "107": {
+        "name": "Hinata Hyuga",
+        "image": "https://cdn.animesoul.com/images/cards/5/1602339458902.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5f8266dacfcd615c4c3cabf0"
+    },
+    "108": {
+        "name": "Hinata Shouyou",
+        "image": "https://cdn.animesoul.com/images/cards/5/Hinata_Shouyou;5;Haikyuu!!,Black_Crow.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5d7577216f818277a57e5694"
+    },
+    "109": {
+        "name": "Hinata and Yui",
+        "image": "https://cdn.animesoul.com/images/cards/5/1583709898595.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5e657eca10998c234f54ac65"
+    },
+    "110": {
+        "name": "Hit",
+        "image": "https://cdn.animesoul.com/images/cards/5/1602339158911.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5f8266dacfcd615c4c3cabe0"
+    },
+    "111": {
+        "name": "Hitori Bocchi",
+        "image": "https://cdn.animesoul.com/images/cards/5/Hitori_Bocchi;5;Hitoribocchi,Shy.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5d7577216f818277a57e568f"
+    },
+    "112": {
+        "name": "Hitoshi Shinsou",
+        "image": "https://cdn.animesoul.com/images/cards/5/1593727705154.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5efe5ad913305613e8ccd973"
+    },
+    "113": {
+        "name": "Holo",
+        "image": "https://cdn.animesoul.com/images/cards/5/1604913834490.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5d1e8358a5f79d12c938c3f3"
+    },
+    "114": {
+        "name": "Hotaru Shidare",
+        "image": "https://cdn.animesoul.com/images/cards/5/Hotaru_Shidare;5;Dagashi_Kashi,Original.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5d3112776b245e5b11e59d51"
+    },
+    "115": {
+        "name": "Hououin Kyouma",
+        "image": "https://cdn.animesoul.com/images/cards/5/Hououin_Kyoma;5;Steins_Gate,Hououin_Kyouma.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5d57539bc1fc102f955f9af9"
+    },
+    "116": {
+        "name": "Ichigo",
+        "image": "https://cdn.animesoul.com/images/cards/5/Ichigo;5;Bleach_Mugetsu.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5d1e8358a5f79d12c938c3f4"
+    },
+    "117": {
+        "name": "Ichigo",
+        "image": "https://cdn.animesoul.com/images/cards/5/1602340709977.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5f8266dacfcd615c4c3cac2e"
+    },
+    "118": {
+        "name": "Ichigo Momomiya",
+        "image": "https://cdn.animesoul.com/images/cards/5/1578708853434.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5e192f75ecd9c87085f55f14"
+    },
+    "119": {
+        "name": "Ichika Nakano",
+        "image": "https://cdn.animesoul.com/images/cards/5/1602374309853.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5f8266dbcfcd615c4c3cb250"
+    },
+    "120": {
+        "name": "Ichika Takatsuki",
+        "image": "https://cdn.animesoul.com/images/cards/5/1580746920642.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5e3848a8f62b195e095d5acd"
+    },
+    "121": {
+        "name": "Illyasviel Von Einzbern",
+        "image": "https://cdn.animesoul.com/images/cards/5/1596669131261.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5f2b3ccbf9a16332281eef85"
+    },
+    "122": {
+        "name": "Indra Otsutsuki",
+        "image": "https://cdn.animesoul.com/images/cards/5/1602339291306.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5f8266dacfcd615c4c3cabe4"
+    },
+    "123": {
+        "name": "Inori Yuzuriha",
+        "image": "https://cdn.animesoul.com/images/cards/5/Inori_Yuzuriha;5;Guilty_Crown,Original.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5d7577216f818277a57e5690"
+    },
+    "124": {
+        "name": "Inosuke Hashibira",
+        "image": "https://cdn.animesoul.com/images/cards/5/1583709913186.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5e657ed910998c234f54ac66"
+    },
+    "125": {
+        "name": "Isaac Foster and Rachel Gardner",
+        "image": "https://cdn.animesoul.com/images/cards/5/1588821835583.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5eb37f4b99982e16d14eb43b"
+    },
+    "126": {
+        "name": "Isuzu Sento",
+        "image": "https://cdn.animesoul.com/images/cards/5/1602350935142.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5f8266dacfcd615c4c3caf1c"
+    },
+    "127": {
+        "name": "Itsuki Nakano",
+        "image": "https://cdn.animesoul.com/images/cards/5/1602374335783.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5f8266dbcfcd615c4c3cb252"
+    },
+    "128": {
+        "name": "Jegal Taek",
+        "image": "https://cdn.animesoul.com/images/cards/5/1602374472181.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5f8266dbcfcd615c4c3cb258"
+    },
+    "129": {
+        "name": "Jibril",
+        "image": "https://cdn.animesoul.com/images/cards/5/1583709944091.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5e657ef810998c234f54ac67"
+    },
+    "130": {
+        "name": "Jinbei",
+        "image": "https://cdn.animesoul.com/images/cards/5/1596667890391.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5f2b37f2a5a84e32a258df76"
+    },
+    "131": {
+        "name": "Jiraiya",
+        "image": "https://cdn.animesoul.com/images/cards/5/Jiraiya;5;Naruto,Original.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5d1e8358a5f79d12c938c3f5"
+    },
+    "132": {
+        "name": "Joker",
+        "image": "https://cdn.animesoul.com/images/cards/5/1596688556647.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5db4e4cb8ed9e66176623237"
+    },
+    "133": {
+        "name": "Jonathan",
+        "image": "https://cdn.animesoul.com/images/cards/5/1575180184441.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5de357984ecd7863e16a1dc6"
+    },
+    "134": {
+        "name": "Josuke Higashikata",
+        "image": "https://cdn.animesoul.com/images/cards/5/1596688611662.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5db4e4e98ed9e66176623238"
+    },
+    "135": {
+        "name": "Judar",
+        "image": "https://cdn.animesoul.com/images/cards/5/1578708888934.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5e192f98ecd9c87085f55f15"
+    },
+    "136": {
+        "name": "Julius Novachrono",
+        "image": "https://cdn.animesoul.com/images/cards/5/1599412849711.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5f551a71df07536fcd19a1ca"
+    },
+    "137": {
+        "name": "Junko Enoshima",
+        "image": "https://cdn.animesoul.com/images/cards/5/1575180200047.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5de357a84ecd7863e16a1dc7"
+    },
+    "138": {
+        "name": "Juzo inui",
+        "image": "https://cdn.animesoul.com/images/cards/5/1596669169146.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5f2b3cf139e0d431ee8c159f"
+    },
+    "139": {
+        "name": "Kae Serinuma",
+        "image": "https://cdn.animesoul.com/images/cards/5/1580746974426.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5e3848def62b195e095d5ad8"
+    },
+    "140": {
+        "name": "Kagami Taiga",
+        "image": "https://cdn.animesoul.com/images/cards/5/1588821848430.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5eb37f5899982e16d14eb444"
+    },
+    "141": {
+        "name": "Kagome Higurashi",
+        "image": "https://cdn.animesoul.com/images/cards/5/Kagome_Higurashi;5;Inuyasha,Daylight.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5d7577216f818277a57e569b"
+    },
+    "142": {
+        "name": "Kagura",
+        "image": "https://cdn.animesoul.com/images/cards/5/1575180221716.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5de357bd4ecd7863e16a1dc8"
+    },
+    "143": {
+        "name": "Kakashi",
+        "image": "https://cdn.animesoul.com/images/cards/5/1596688660132.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5e37ae9aef2d991e72a5a276"
+    },
+    "144": {
+        "name": "Kakuzu",
+        "image": "https://cdn.animesoul.com/images/cards/5/1602339336867.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5f8266dacfcd615c4c3cabe8"
+    },
+    "145": {
+        "name": "Kallen Kozuki",
+        "image": "https://cdn.animesoul.com/images/cards/5/1599419896225.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5f5535f8df07536fcd19bd3f"
+    },
+    "146": {
+        "name": "Kamina",
+        "image": "https://cdn.animesoul.com/images/cards/5/1579944791405.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5e2c0b57f2d56744b226a4b1"
+    },
+    "147": {
+        "name": "Kanade",
+        "image": "https://cdn.animesoul.com/images/cards/5/1596688773010.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5d57539bc1fc102f955f9aed"
+    },
+    "148": {
+        "name": "Kanao Tsuyuri",
+        "image": "https://cdn.animesoul.com/images/cards/5/1599415179356.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5e657f044f66dd237933722a"
+    },
+    "149": {
+        "name": "Kanda Yuu",
+        "image": "https://cdn.animesoul.com/images/cards/5/1596667929873.Gray%20Man,Blademaster,Batch%2015",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5f2b3819faa5cf7a68a5a32e"
+    },
+    "150": {
+        "name": "Kaori Miyazono",
+        "image": "https://cdn.animesoul.com/images/cards/5/Kaori_Miyazono;5;Your_Lie_in_April,Violin.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5d7577216f818277a57e5691"
+    },
+    "151": {
+        "name": "Karma Akabane",
+        "image": "https://cdn.animesoul.com/images/cards/5/1588821862089.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5eb37f66d2492a4ad83eceb4"
+    },
+    "152": {
+        "name": "Katsuhira Agata",
+        "image": "https://cdn.animesoul.com/images/cards/5/1599408109467.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5f5507edf94a03120d30a21b"
+    },
+    "153": {
+        "name": "Kazuma Kiryu",
+        "image": "https://cdn.animesoul.com/images/cards/5/1591045545282.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5ed56da969038725cc111dcf"
+    },
+    "154": {
+        "name": "Kei Tsukishima",
+        "image": "https://cdn.animesoul.com/images/cards/5/1593727719978.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5efe5ae72cd036145b325eac"
+    },
+    "155": {
+        "name": "Keiji Akaashi and Koutarou Bokuto",
+        "image": "https://cdn.animesoul.com/images/cards/5/1599412655522.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5f5519afee01266f498463c3"
+    },
+    "156": {
+        "name": "Keiji Mogami",
+        "image": "https://cdn.animesoul.com/images/cards/5/1591045561769.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5ed56db9712f5e2522517553"
+    },
+    "157": {
+        "name": "Kenshiro",
+        "image": "https://cdn.animesoul.com/images/cards/5/Kenshiro;5;Fist_of_the_North_Star,Original.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5d3112776b245e5b11e59d4e"
+    },
+    "158": {
+        "name": "Kiki",
+        "image": "https://cdn.animesoul.com/images/cards/5/1585700942094.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5e83e04e7f55767c69de5f51"
+    },
+    "159": {
+        "name": "Killer B",
+        "image": "https://cdn.animesoul.com/images/cards/5/1602339511458.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5f8266dacfcd615c4c3cabf4"
+    },
+    "160": {
+        "name": "Killua and Alluka",
+        "image": "https://cdn.animesoul.com/images/cards/5/1580747142639.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5e3849863832f35ec359a562"
+    },
+    "161": {
+        "name": "Kirino Kousaka",
+        "image": "https://cdn.animesoul.com/images/cards/5/1599408137239.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5f550809ebf4ef1214e7ec6b"
+    },
+    "162": {
+        "name": "Kiyoko Shimizu",
+        "image": "https://cdn.animesoul.com/images/cards/5/1596667994762.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5f2b385ac990fd31f4cbdde2"
+    },
+    "163": {
+        "name": "Kiyotaka Ishimaru",
+        "image": "https://cdn.animesoul.com/images/cards/5/1599413190777.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5f551bc694c6d9700d34e99a"
+    },
+    "164": {
+        "name": "Kofuku",
+        "image": "https://cdn.animesoul.com/images/cards/5/1602339545197.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5f8266dacfcd615c4c3cabf8"
+    },
+    "165": {
+        "name": "Konata Izumi",
+        "image": "https://cdn.animesoul.com/images/cards/5/1572136191592.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5db4e4ff8ed9e66176623239"
+    },
+    "166": {
+        "name": "Konno Yuuki",
+        "image": "https://cdn.animesoul.com/images/cards/5/1596668542924.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5f2b3a7e4b99db329b1daa23"
+    },
+    "167": {
+        "name": "Konoha",
+        "image": "https://cdn.animesoul.com/images/cards/5/1572136215036.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5db4e5178ed9e6617662323a"
+    },
+    "168": {
+        "name": "Kouko Kaga",
+        "image": "https://cdn.animesoul.com/images/cards/5/1572136242662.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5db4e5328ed9e6617662323b"
+    },
+    "169": {
+        "name": "Krul Tepes",
+        "image": "https://cdn.animesoul.com/images/cards/5/1572136274461.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5db4e5528ed9e6617662323c"
+    },
+    "170": {
+        "name": "Kufa Vampir",
+        "image": "https://cdn.animesoul.com/images/cards/5/1596669244674.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5f2b3d3ca5a84e32a258e391"
+    },
+    "171": {
+        "name": "Kumatetsu",
+        "image": "https://cdn.animesoul.com/images/cards/5/1579944596581.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5e2c0a94f2d56744b226a4b0"
+    },
+    "172": {
+        "name": "Kumiko Oumae and Reina Kousaka",
+        "image": "https://cdn.animesoul.com/images/cards/5/1588821883034.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5eb37f7bd2492a4ad83ecec0"
+    },
+    "173": {
+        "name": "Kurapika",
+        "image": "https://cdn.animesoul.com/images/cards/5/1583709988037.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5e657f244f66dd237933722b"
+    },
+    "174": {
+        "name": "Kurata Mashiro",
+        "image": "https://cdn.animesoul.com/images/cards/5/1596668607253.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5f2b3abfbc8e0e31a419e6ef"
+    },
+    "175": {
+        "name": "Kurisu Makise",
+        "image": "https://cdn.animesoul.com/images/cards/5/1604943071224.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5d3112776b245e5b11e59d52"
+    },
+    "176": {
+        "name": "Kuroo and Kenma",
+        "image": "https://cdn.animesoul.com/images/cards/5/1593727739491.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5efe5afb13305613e8ccd976"
+    },
+    "177": {
+        "name": "Kurumi",
+        "image": "https://cdn.animesoul.com/images/cards/5/1599412916150.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5f551ab447bfa26fab19fb57"
+    },
+    "178": {
+        "name": "Kyo Sohma",
+        "image": "https://cdn.animesoul.com/images/cards/5/Kyo_Sohma;5;Fruits_Basket,Original.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5d57539bc1fc102f955f9af4"
+    },
+    "179": {
+        "name": "Kyojuro",
+        "image": "https://cdn.animesoul.com/images/cards/5/1572136302929.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5db4e56e8ed9e6617662323d"
+    },
+    "180": {
+        "name": "Kyouko",
+        "image": "https://cdn.animesoul.com/images/cards/5/1599415369692.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5de357df4ecd7863e16a1dc9"
+    },
+    "181": {
+        "name": "Kyouya Sata",
+        "image": "https://cdn.animesoul.com/images/cards/5/1602380378094.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5f8266dbcfcd615c4c3cb27e"
+    },
+    "182": {
+        "name": "Lain Iwakura",
+        "image": "https://cdn.animesoul.com/images/cards/5/1604368094439.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5d3112776b245e5b11e59d4d"
+    },
+    "183": {
+        "name": "Leilia",
+        "image": "https://cdn.animesoul.com/images/cards/5/1572136319576.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5db4e57f8ed9e6617662323e"
+    },
+    "184": {
+        "name": "Leonardo",
+        "image": "https://cdn.animesoul.com/images/cards/5/1604962043350.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5de357f34ecd7863e16a1dcb"
+    },
+    "185": {
+        "name": "Lily Bloomerchen",
+        "image": "https://cdn.animesoul.com/images/cards/5/1596669322003.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5f2b3d8a3851125deb940b0f"
+    },
+    "186": {
+        "name": "Ling",
+        "image": "https://cdn.animesoul.com/images/cards/5/1602336944662.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5f8266dacfcd615c4c3cabd0"
+    },
+    "187": {
+        "name": "Lio Fotia and Galo Thymos",
+        "image": "https://cdn.animesoul.com/images/cards/5/1602325280969.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5f8266dacfcd615c4c3caa7e"
+    },
+    "188": {
+        "name": "Louise and Saito",
+        "image": "https://cdn.animesoul.com/images/cards/5/1602340415629.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5f8266dacfcd615c4c3cac18"
+    },
+    "189": {
+        "name": "Maka",
+        "image": "https://cdn.animesoul.com/images/cards/5/Maka;5;Soul_Eater,Original.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5d57539bc1fc102f955f9aee"
+    },
+    "190": {
+        "name": "Maki Nishikino",
+        "image": "https://cdn.animesoul.com/images/cards/5/Maki_Nishikino;5;Love_Live,Idolized.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5d7577216f818277a57e569e"
+    },
+    "191": {
+        "name": "Makoto Niijima",
+        "image": "https://cdn.animesoul.com/images/cards/5/1596668638197.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5f2b3adebc8e0e31a419e714"
+    },
+    "192": {
+        "name": "Maple and Sally",
+        "image": "https://cdn.animesoul.com/images/cards/5/1599412976161.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5f551af047bfa26fab19fb71"
+    },
+    "193": {
+        "name": "Marie",
+        "image": "https://cdn.animesoul.com/images/cards/5/1599408159799.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5f55081faabb7112e7d0ae5e"
+    },
+    "194": {
+        "name": "Mary Saotome",
+        "image": "https://cdn.animesoul.com/images/cards/5/1591045575769.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5ed56dc7d3d1f5251b66595c"
+    },
+    "195": {
+        "name": "Mashiro Shiina",
+        "image": "https://cdn.animesoul.com/images/cards/5/Mashiro_Shiina;5;The_Pet_Girl_of_Sakurasou,Original.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5d57539bc1fc102f955f9afa"
+    },
+    "196": {
+        "name": "Maya Fey",
+        "image": "https://cdn.animesoul.com/images/cards/5/1591045592747.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5ed56dd8feeb81254d8e9702"
+    },
+    "197": {
+        "name": "Mega Man X",
+        "image": "https://cdn.animesoul.com/images/cards/5/1588821897575.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5eb37f8999982e16d14eb461"
+    },
+    "198": {
+        "name": "Meiko Honma",
+        "image": "https://cdn.animesoul.com/images/cards/5/1599412990550.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5f551afedf07536fcd19a1d0"
+    },
+    "199": {
+        "name": "Meiko Shiraki",
+        "image": "https://cdn.animesoul.com/images/cards/5/1596669353385.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5f2b3da95a3a865dc3a49abc"
+    },
+    "200": {
+        "name": "Menma",
+        "image": "https://cdn.animesoul.com/images/cards/5/Menma;5;Anohana,Original.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5d57539bc1fc102f955f9af8"
+    },
+    "201": {
+        "name": "Meruem",
+        "image": "https://cdn.animesoul.com/images/cards/5/1572136341410.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5db4e5958ed9e6617662323f"
+    },
+    "202": {
+        "name": "Metal Bat",
+        "image": "https://cdn.animesoul.com/images/cards/5/1596669384326.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5f2b3dc8829aaf5d8d2e7d43"
+    },
+    "203": {
+        "name": "Midari Ikishima",
+        "image": "https://cdn.animesoul.com/images/cards/5/1599408179942.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5f55083366ce8f1173a1f120"
+    },
+    "204": {
+        "name": "Might Guy",
+        "image": "https://cdn.animesoul.com/images/cards/5/1580707509670.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5e37aeb5ef2d991e72a5a278"
+    },
+    "205": {
+        "name": "Mika",
+        "image": "https://cdn.animesoul.com/images/cards/5/Mika;5;Owari_No_Seraph,Original.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5d3112776b245e5b11e59d5c"
+    },
+    "206": {
+        "name": "Mikaela and Yuichiro",
+        "image": "https://cdn.animesoul.com/images/cards/5/1602343448860.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5f8266dacfcd615c4c3cacac"
+    },
+    "207": {
+        "name": "Mikoto Misaka",
+        "image": "https://cdn.animesoul.com/images/cards/5/Mikoto_Misaka;5;A_Certain_Magical_Index,Lightning.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5d57539bc1fc102f955f9af6"
+    },
+    "208": {
+        "name": "Mikoto Suoh",
+        "image": "https://cdn.animesoul.com/images/cards/5/1599408215825.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5f5508575a698411d8438c8c"
+    },
+    "209": {
+        "name": "Miku Nakano",
+        "image": "https://cdn.animesoul.com/images/cards/5/1602374367027.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5f8266dbcfcd615c4c3cb254"
+    },
+    "210": {
+        "name": "Milim Nava",
+        "image": "https://cdn.animesoul.com/images/cards/5/1593727753999.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5efe5b0a4e2213142c307a41"
+    },
+    "211": {
+        "name": "Minato Namikaze",
+        "image": "https://cdn.animesoul.com/images/cards/5/1585700954209.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5e83e05afcb6fc7cb8116dd0"
+    },
+    "212": {
+        "name": "Mine",
+        "image": "https://cdn.animesoul.com/images/cards/5/1593727770290.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5efe5b1a3b77cb1442afb6e4"
+    },
+    "213": {
+        "name": "Mira Yurizake",
+        "image": "https://cdn.animesoul.com/images/cards/5/1596668667629.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5f2b3afbfaa5cf7a68a5a585"
+    },
+    "214": {
+        "name": "Mirai and Akihito",
+        "image": "https://cdn.animesoul.com/images/cards/5/1593727785618.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5efe5b293b77cb1442afb6eb"
+    },
+    "215": {
+        "name": "Mirajane Strauss",
+        "image": "https://cdn.animesoul.com/images/cards/5/1583710003841.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5e657f33150efc235087b335"
+    },
+    "216": {
+        "name": "Mirio Togata",
+        "image": "https://cdn.animesoul.com/images/cards/5/1599413003565.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5f551b0bee01266f4984659c"
+    },
+    "217": {
+        "name": "Misa Amane",
+        "image": "https://cdn.animesoul.com/images/cards/5/1596668692240.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5f2b3b14f9a16332281eee07"
+    },
+    "218": {
+        "name": "Misaki Shokuhou",
+        "image": "https://cdn.animesoul.com/images/cards/5/1596669425268.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5f2b3df1e371515d98e88b30"
+    },
+    "219": {
+        "name": "Mitsuki",
+        "image": "https://cdn.animesoul.com/images/cards/5/1580747346054.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5e384a52f5aaba5e1fd64579"
+    },
+    "220": {
+        "name": "Mitsuri Kanroji",
+        "image": "https://cdn.animesoul.com/images/cards/5/1591045606989.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5ed56de6713f6f25d37a9a91"
+    },
+    "221": {
+        "name": "Miyano",
+        "image": "https://cdn.animesoul.com/images/cards/5/1575180292192.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5de358044ecd7863e16a1dcc"
+    },
+    "222": {
+        "name": "Miyuki",
+        "image": "https://cdn.animesoul.com/images/cards/5/1587493720337.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5e9f3b58d7e7c2091c5bc8a3"
+    },
+    "223": {
+        "name": "Moca Aoba",
+        "image": "https://cdn.animesoul.com/images/cards/5/1596669585574.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5f2b3e91bf297e5d5e3a6bac"
+    },
+    "224": {
+        "name": "Mondo Owada",
+        "image": "https://cdn.animesoul.com/images/cards/5/1599408240480.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5f55087066ce8f1173a1f16f"
+    },
+    "225": {
+        "name": "Mordred",
+        "image": "https://cdn.animesoul.com/images/cards/5/1599415281433.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5e83e06c5162e17c4918eebf"
+    },
+    "226": {
+        "name": "Morgiana",
+        "image": "https://cdn.animesoul.com/images/cards/5/1572136361134.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5db4e5a98ed9e66176623240"
+    },
+    "227": {
+        "name": "Motoko Kusanagi",
+        "image": "https://cdn.animesoul.com/images/cards/5/1593727809088.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5efe5b4113305613e8ccd97d"
+    },
+    "228": {
+        "name": "Mugen",
+        "image": "https://cdn.animesoul.com/images/cards/5/1580746623781.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5e38477ff62b195e095d5acb"
+    },
+    "229": {
+        "name": "Myne",
+        "image": "https://cdn.animesoul.com/images/cards/5/1580747508543.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5e384af4ef2d991e72a5a63a"
+    },
+    "230": {
+        "name": "Nagisa Shiota",
+        "image": "https://cdn.animesoul.com/images/cards/5/1588821913789.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5eb37f993f56e245dfa23c0f"
+    },
+    "231": {
+        "name": "Nana",
+        "image": "https://cdn.animesoul.com/images/cards/5/1572136378150.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5db4e5ba8ed9e66176623241"
+    },
+    "232": {
+        "name": "Nao Tomori",
+        "image": "https://cdn.animesoul.com/images/cards/5/Nao_Tomori;5;Charlotte,Camera.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5d7577216f818277a57e5697"
+    },
+    "233": {
+        "name": "Naofumi Iwatani",
+        "image": "https://cdn.animesoul.com/images/cards/5/Naofumi_Iwatani;5;The_Rising_of_the_Shield_Hero,Original.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5d57539bc1fc102f955f9aef"
+    },
+    "234": {
+        "name": "Nappa",
+        "image": "https://cdn.animesoul.com/images/cards/5/1602340447957.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5f8266dacfcd615c4c3cac1a"
+    },
+    "235": {
+        "name": "Narancia Ghirga",
+        "image": "https://cdn.animesoul.com/images/cards/5/1602340489567.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5f8266dacfcd615c4c3cac1e"
+    },
+    "236": {
+        "name": "Narmaya",
+        "image": "https://cdn.animesoul.com/images/cards/5/1604914232178.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5d1e8358a5f79d12c938c3f7"
+    },
+    "237": {
+        "name": "Naruto",
+        "image": "https://cdn.animesoul.com/images/cards/5/Naruto;5;Naruto,Yang_Kurama_Sage_Mode.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5d1e8358a5f79d12c938c3f8"
+    },
+    "238": {
+        "name": "Nazuna Hiwatashi",
+        "image": "https://cdn.animesoul.com/images/cards/5/1602380870584.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5f8266dbcfcd615c4c3cb282"
+    },
+    "239": {
+        "name": "Neferpitou",
+        "image": "https://cdn.animesoul.com/images/cards/5/1599415329075.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5d3112776b245e5b11e59d53"
+    },
+    "240": {
+        "name": "Nino Nakano",
+        "image": "https://cdn.animesoul.com/images/cards/5/1602374433806.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5f8266dbcfcd615c4c3cb256"
+    },
+    "241": {
+        "name": "Noel",
+        "image": "https://cdn.animesoul.com/images/cards/5/1593727826317.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5efe5b522cd036145b325f0a"
+    },
+    "242": {
+        "name": "Noriko Sonozaki",
+        "image": "https://cdn.animesoul.com/images/cards/5/Noriko_Sonozaki;5;Kiznaiver,Original.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5d57539bc1fc102f955f9af7"
+    },
+    "243": {
+        "name": "Nozomi Toujou and Eli Ayase",
+        "image": "https://cdn.animesoul.com/images/cards/5/1591045622876.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5ed56df619a050257b78a1cf"
+    },
+    "244": {
+        "name": "Oda Nobunaga",
+        "image": "https://cdn.animesoul.com/images/cards/5/1585700990667.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5e83e07e8940967db94fe3e3"
+    },
+    "245": {
+        "name": "Origami Tobiichi",
+        "image": "https://cdn.animesoul.com/images/cards/5/1604913898109.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5e83e08c5162e17c4918eec7"
+    },
+    "246": {
+        "name": "Orochimaru",
+        "image": "https://cdn.animesoul.com/images/cards/5/1602340530743.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5f8266dacfcd615c4c3cac20"
+    },
+    "247": {
+        "name": "Osamu Dazai",
+        "image": "https://cdn.animesoul.com/images/cards/5/1596689056995.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5d7577216f818277a57e5699"
+    },
+    "248": {
+        "name": "Ozen",
+        "image": "https://cdn.animesoul.com/images/cards/5/1585701017263.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5e83e0997f55767c69de5f6e"
+    },
+    "249": {
+        "name": "Pain",
+        "image": "https://cdn.animesoul.com/images/cards/5/1583710017797.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5e657f41e5f8bc237776d368"
+    },
+    "250": {
+        "name": "Panty and Stocking",
+        "image": "https://cdn.animesoul.com/images/cards/5/1575180311244.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5de358174ecd7863e16a1dcd"
+    },
+    "251": {
+        "name": "Park Il-Pyo",
+        "image": "https://cdn.animesoul.com/images/cards/5/1602374533492.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5f8266dbcfcd615c4c3cb25a"
+    },
+    "252": {
+        "name": "Phoenix Wright",
+        "image": "https://cdn.animesoul.com/images/cards/5/Phoenix_Wright;5;Phoenix_Wright_Ace_Attorney,Objection.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5d57539bc1fc102f955f9af0"
+    },
+    "253": {
+        "name": "Princess Serenity",
+        "image": "https://cdn.animesoul.com/images/cards/5/1575180332718.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5de3582c4ecd7863e16a1dce"
+    },
+    "254": {
+        "name": "Proto Man",
+        "image": "https://cdn.animesoul.com/images/cards/5/1588821927444.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5eb37fa7d2492a4ad83eced2"
+    },
+    "255": {
+        "name": "Purple Heart",
+        "image": "https://cdn.animesoul.com/images/cards/5/1599408258390.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5f5508826432f811790bf196"
+    },
+    "256": {
+        "name": "Quinella",
+        "image": "https://cdn.animesoul.com/images/cards/5/1596669610499.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5f2b3eaae371515d98e88b5a"
+    },
+    "257": {
+        "name": "Ranpo Edogawa",
+        "image": "https://cdn.animesoul.com/images/cards/5/1596669646799.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5f2b3ece829aaf5d8d2e7daf"
+    },
+    "258": {
+        "name": "Raphtalia",
+        "image": "https://cdn.animesoul.com/images/cards/5/1599415832605.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5d7577216f818277a57e569c"
+    },
+    "259": {
+        "name": "Rei Ayanami",
+        "image": "https://cdn.animesoul.com/images/cards/5/Rei_Ayanami;5;Neon_Genesis_Evangelion,Original.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5d7577216f818277a57e56a1"
+    },
+    "260": {
+        "name": "Rei Oogami",
+        "image": "https://cdn.animesoul.com/images/cards/5/1588821945651.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5eb37fb93f56e245dfa23c1c"
+    },
+    "261": {
+        "name": "Reigen Arataka",
+        "image": "https://cdn.animesoul.com/images/cards/5/1596689117378.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5e7678bfdbbd197aba26d926"
+    },
+    "262": {
+        "name": "Reiner Braun",
+        "image": "https://cdn.animesoul.com/images/cards/5/Reiner_Braun;5;Attack_On_Titan,%20Armored_Titan.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5d57539bc1fc102f955f9afb"
+    },
+    "263": {
+        "name": "Rem",
+        "image": "https://cdn.animesoul.com/images/cards/5/1599415630005.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5d3112776b245e5b11e59d5f"
+    },
+    "264": {
+        "name": "Rem Galleu",
+        "image": "https://cdn.animesoul.com/images/cards/5/1596669675835.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5f2b3eebbf297e5d5e3a6c47"
+    },
+    "265": {
+        "name": "Rem and Ram",
+        "image": "https://cdn.animesoul.com/images/cards/5/1572136429597.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5db4e5ed8ed9e66176623243"
+    },
+    "266": {
+        "name": "Rena Ryuuguu",
+        "image": "https://cdn.animesoul.com/images/cards/5/Rena_Ryuuguu;5;Higurashi_no_Naku_Koro_ni,Kaaii.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5d7577216f818277a57e5695"
+    },
+    "267": {
+        "name": "Renge Miyauchi",
+        "image": "https://cdn.animesoul.com/images/cards/5/1578708906503.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5e192faaecd9c87085f55f16"
+    },
+    "268": {
+        "name": "Revy and Rock",
+        "image": "https://cdn.animesoul.com/images/cards/5/1599408298830.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5f5508aaebf4ef1214e7ecb5"
+    },
+    "269": {
+        "name": "Rika Furude",
+        "image": "https://cdn.animesoul.com/images/cards/5/1596689185002.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5d7577216f818277a57e56a0"
+    },
+    "270": {
+        "name": "Rikka Takanashi",
+        "image": "https://cdn.animesoul.com/images/cards/5/Rikka_Takanashi;5;Chuunibyou_demo_Koi_ga_Shitai,Original.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5d3112776b245e5b11e59d5d"
+    },
+    "271": {
+        "name": "Rikka Takarada",
+        "image": "https://cdn.animesoul.com/images/cards/5/1599413058502.Gridman,Original,Batch%2018",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5d3112776b245e5b11e59d58"
+    },
+    "272": {
+        "name": "Riku",
+        "image": "https://cdn.animesoul.com/images/cards/5/1572136462003.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5db4e60e8ed9e66176623244"
+    },
+    "273": {
+        "name": "Rin Matsuoka",
+        "image": "https://cdn.animesoul.com/images/cards/5/1596669710699.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5f2b3f0e3851125deb940c8e"
+    },
+    "274": {
+        "name": "Rin and Haruka",
+        "image": "https://cdn.animesoul.com/images/cards/5/1604913589335.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5e657f57e5f8bc237776d369"
+    },
+    "275": {
+        "name": "Rin and Len",
+        "image": "https://cdn.animesoul.com/images/cards/5/1585701045079.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5e83e0b55162e17c4918eed9"
+    },
+    "276": {
+        "name": "Rindou Kobayashi",
+        "image": "https://cdn.animesoul.com/images/cards/5/1602374563812.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5f8266dbcfcd615c4c3cb25c"
+    },
+    "277": {
+        "name": "Rinko Shirokane",
+        "image": "https://cdn.animesoul.com/images/cards/5/1593727846616.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5efe5b660e5c79136dc1e765"
+    },
+    "278": {
+        "name": "Rio Futaba",
+        "image": "https://cdn.animesoul.com/images/cards/5/1588822085418.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5eb380456474f175fa048227"
+    },
+    "279": {
+        "name": "Ririchiyo Shirakiin",
+        "image": "https://cdn.animesoul.com/images/cards/5/Ririchiyo_Shirakiin;5;Inu_X_Boku_Secret_Service,Youkai.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5d57539bc1fc102f955f9afc"
+    },
+    "280": {
+        "name": "Ristarte",
+        "image": "https://cdn.animesoul.com/images/cards/5/1588822140673.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5eb3807c3f56e245dfa23c98"
+    },
+    "281": {
+        "name": "Robert E.O. Speedwagon",
+        "image": "https://cdn.animesoul.com/images/cards/5/1585701068048.O",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5e83e0ccfcb6fc7cb8116ddd"
+    },
+    "282": {
+        "name": "Rokuro Enmado",
+        "image": "https://cdn.animesoul.com/images/cards/5/1602374599213.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5f8266dbcfcd615c4c3cb25e"
+    },
+    "283": {
+        "name": "Roxas",
+        "image": "https://cdn.animesoul.com/images/cards/5/1572136496116.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5db4e6308ed9e66176623245"
+    },
+    "284": {
+        "name": "Ruby Rose",
+        "image": "https://cdn.animesoul.com/images/cards/5/Ruby_Rose;5;RWBY,Original.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5d3112776b245e5b11e59d4f"
+    },
+    "285": {
+        "name": "Rui",
+        "image": "https://cdn.animesoul.com/images/cards/5/1591045642490.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5ed56e0ad3d1f5251b66595d"
+    },
+    "286": {
+        "name": "Rui Tachibana",
+        "image": "https://cdn.animesoul.com/images/cards/5/1588822154220.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5eb3808ad2492a4ad83ecf43"
+    },
+    "287": {
+        "name": "Ruka Sarashina",
+        "image": "https://cdn.animesoul.com/images/cards/5/1602374630987.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5f8266dbcfcd615c4c3cb260"
+    },
+    "288": {
+        "name": "Ryo Kurokiba",
+        "image": "https://cdn.animesoul.com/images/cards/5/1585701081703.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5e83e0d98940967db94fe3e7"
+    },
+    "289": {
+        "name": "Ryou Kyou",
+        "image": "https://cdn.animesoul.com/images/cards/5/1572136518153.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5db4e6468ed9e66176623246"
+    },
+    "290": {
+        "name": "Ryuk",
+        "image": "https://cdn.animesoul.com/images/cards/5/1572136537353.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5db4e6598ed9e66176623247"
+    },
+    "291": {
+        "name": "Ryuuji Takasu",
+        "image": "https://cdn.animesoul.com/images/cards/5/1602379436630.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5f8266dbcfcd615c4c3cb264"
+    },
+    "292": {
+        "name": "Sabo",
+        "image": "https://cdn.animesoul.com/images/cards/5/1602340557031.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5f8266dacfcd615c4c3cac22"
+    },
+    "293": {
+        "name": "Sailor Jupiter",
+        "image": "https://cdn.animesoul.com/images/cards/5/1575180356022.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5de358444ecd7863e16a1dcf"
+    },
+    "294": {
+        "name": "Sailor Mars",
+        "image": "https://cdn.animesoul.com/images/cards/5/1575180372534.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5de358544ecd7863e16a1dd1"
+    },
+    "295": {
+        "name": "Sailor Mercury",
+        "image": "https://cdn.animesoul.com/images/cards/5/1572136558496.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5db4e66e8ed9e66176623248"
+    },
+    "296": {
+        "name": "Sailor Venus",
+        "image": "https://cdn.animesoul.com/images/cards/5/1572136584679.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5db4e6888ed9e66176623249"
+    },
+    "297": {
+        "name": "Saitama Genos",
+        "image": "https://cdn.animesoul.com/images/cards/5/1572136608653.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5db4e6a08ed9e6617662324a"
+    },
+    "298": {
+        "name": "Sakamoto",
+        "image": "https://cdn.animesoul.com/images/cards/5/1585701100146.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5e83e0ecfcb6fc7cb8116de3"
+    },
+    "299": {
+        "name": "Sakura Haruno",
+        "image": "https://cdn.animesoul.com/images/cards/5/1583710054465.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5e657f664f66dd2379337234"
+    },
+    "300": {
+        "name": "Sanji",
+        "image": "https://cdn.animesoul.com/images/cards/5/Sanji;5;One_Piece,Original.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5d3112776b245e5b11e59d54"
+    },
+    "301": {
+        "name": "Sasori",
+        "image": "https://cdn.animesoul.com/images/cards/5/1602340637152.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5f8266dacfcd615c4c3cac28"
+    },
+    "302": {
+        "name": "Sasori and Deidara",
+        "image": "https://cdn.animesoul.com/images/cards/5/1602340603984.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5f8266dacfcd615c4c3cac26"
+    },
+    "303": {
+        "name": "Satoru Fujinuma",
+        "image": "https://cdn.animesoul.com/images/cards/5/1572136631747.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5db4e6b78ed9e6617662324b"
+    },
+    "304": {
+        "name": "Satoshi Isshiki",
+        "image": "https://cdn.animesoul.com/images/cards/5/1593727861897.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5efe5b7513305613e8ccd9aa"
+    },
+    "305": {
+        "name": "Satou",
+        "image": "https://cdn.animesoul.com/images/cards/5/1602340673534.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5f8266dacfcd615c4c3cac2c"
+    },
+    "306": {
+        "name": "Sayaka Maizono",
+        "image": "https://cdn.animesoul.com/images/cards/5/1599408311424.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5f5508b7ebf4ef1214e7ecb6"
+    },
+    "307": {
+        "name": "Schwi Dola",
+        "image": "https://cdn.animesoul.com/images/cards/5/1593727876639.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5efe5b84fc0fdf1358a32ce2"
+    },
+    "308": {
+        "name": "Senjougahara",
+        "image": "https://cdn.animesoul.com/images/cards/5/Senjougahara;5;Monogatari_Series,Original.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5d57539bc1fc102f955f9aff"
+    },
+    "309": {
+        "name": "Sesshomaru",
+        "image": "https://cdn.animesoul.com/images/cards/5/Sesshomaru;5;Inuyasha,Battle.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5d7577216f818277a57e569a"
+    },
+    "310": {
+        "name": "Seth",
+        "image": "https://cdn.animesoul.com/images/cards/5/Seth;5;Radiant,Berserk_Mode.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5d3112776b245e5b11e59d60"
+    },
+    "311": {
+        "name": "Shana",
+        "image": "https://cdn.animesoul.com/images/cards/5/1596689346521.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5d57539bc1fc102f955f9afd"
+    },
+    "312": {
+        "name": "Shikamaru Nara",
+        "image": "https://cdn.animesoul.com/images/cards/5/1596668754143.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5f2b3b526f0f57315fc80a58"
+    },
+    "313": {
+        "name": "Shiki Ryougi",
+        "image": "https://cdn.animesoul.com/images/cards/5/1572136655065.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5db4e6cf8ed9e6617662324c"
+    },
+    "314": {
+        "name": "Shinka Nibutani",
+        "image": "https://cdn.animesoul.com/images/cards/5/1596668787676.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5f2b3b73a5a84e32a258e20a"
+    },
+    "315": {
+        "name": "Shinobu",
+        "image": "https://cdn.animesoul.com/images/cards/5/Shinobu;5;Monogatari_Series,Original.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5d3112776b245e5b11e59d5e"
+    },
+    "316": {
+        "name": "Shizue",
+        "image": "https://cdn.animesoul.com/images/cards/5/1593727893481.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5efe5b957743e412f987188e"
+    },
+    "317": {
+        "name": "Shizuo Heiwajima",
+        "image": "https://cdn.animesoul.com/images/cards/5/1572136683160.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5db4e6eb8ed9e6617662324d"
+    },
+    "318": {
+        "name": "Shuichi and Kaede",
+        "image": "https://cdn.animesoul.com/images/cards/5/1588822166673.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5eb38096d2492a4ad83ecf46"
+    },
+    "319": {
+        "name": "Shuka Karino",
+        "image": "https://cdn.animesoul.com/images/cards/5/1588822179035.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5eb380a33f56e245dfa23caa"
+    },
+    "320": {
+        "name": "Shuvi and Riku",
+        "image": "https://cdn.animesoul.com/images/cards/5/1593736998229.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5efe7f2696b54712f305d8bd"
+    },
+    "321": {
+        "name": "Sinbad",
+        "image": "https://cdn.animesoul.com/images/cards/5/1572136703056.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5db4e6ff8ed9e6617662324e"
+    },
+    "322": {
+        "name": "Sinon",
+        "image": "https://cdn.animesoul.com/images/cards/5/1596689397359.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5d7577216f818277a57e56a2"
+    },
+    "323": {
+        "name": "Sistine Fibel",
+        "image": "https://cdn.animesoul.com/images/cards/5/1596668818560.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5f2b3b924b99db329b1daac0"
+    },
+    "324": {
+        "name": "Soo Won",
+        "image": "https://cdn.animesoul.com/images/cards/5/Soo_Won;5;Yona_of_the_Dawn,Original.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5d57539bc1fc102f955f9b00"
+    },
+    "325": {
+        "name": "Sora",
+        "image": "https://cdn.animesoul.com/images/cards/5/1588822621941.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5eb3825d99982e16d14eb5b6"
+    },
+    "326": {
+        "name": "Soul Evans",
+        "image": "https://cdn.animesoul.com/images/cards/5/Soul_Evans;5;Soul_Eater,Original.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5d57539bc1fc102f955f9b02"
+    },
+    "327": {
+        "name": "Soushi Miketsukami",
+        "image": "https://cdn.animesoul.com/images/cards/5/Soushi_Miketsukami;5;Inu_X_Boku_Secret_Service,Nine_Tail_Spirit_Fox.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5d7577216f818277a57e5696"
+    },
+    "328": {
+        "name": "Suigintou",
+        "image": "https://cdn.animesoul.com/images/cards/5/1572136729878.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5db4e7198ed9e6617662324f"
+    },
+    "329": {
+        "name": "Tae Takemi",
+        "image": "https://cdn.animesoul.com/images/cards/5/1596668851667.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5f2b3bb3a5a84e32a258e20d"
+    },
+    "330": {
+        "name": "Takagi",
+        "image": "https://cdn.animesoul.com/images/cards/5/1599408349974.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5f5508dd6432f811790bf24d"
+    },
+    "331": {
+        "name": "Takumi Aldini and Isami Aldini",
+        "image": "https://cdn.animesoul.com/images/cards/5/1593727910020.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5efe5ba613305613e8ccd9bb"
+    },
+    "332": {
+        "name": "Tamaki",
+        "image": "https://cdn.animesoul.com/images/cards/5/1604360727538.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5e192fbbecd9c87085f55f17"
+    },
+    "333": {
+        "name": "Tamamo no Mae",
+        "image": "https://cdn.animesoul.com/images/cards/5/1585701118463.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5e83e0fe7f55767c69de5f7c"
+    },
+    "334": {
+        "name": "Tanya von Degurechaff",
+        "image": "https://cdn.animesoul.com/images/cards/5/1586939834063.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5e96c7ba650a6b6d5487efe1"
+    },
+    "335": {
+        "name": "Tatsumaki",
+        "image": "https://cdn.animesoul.com/images/cards/5/1575180389888.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5de358654ecd7863e16a1dd2"
+    },
+    "336": {
+        "name": "Tenya",
+        "image": "https://cdn.animesoul.com/images/cards/5/1602337053876.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5f8266dacfcd615c4c3cabd2"
+    },
+    "337": {
+        "name": "The Will of the Abyss",
+        "image": "https://cdn.animesoul.com/images/cards/5/1596668881758.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5f2b3bd14b99db329b1daac4"
+    },
+    "338": {
+        "name": "Thorkell",
+        "image": "https://cdn.animesoul.com/images/cards/5/1593727926645.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5efe5bb64e2213142c307a68"
+    },
+    "339": {
+        "name": "Tidus Yuna",
+        "image": "https://cdn.animesoul.com/images/cards/5/1575180414598.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5de3587e4ecd7863e16a1dd4"
+    },
+    "340": {
+        "name": "Tiffania Westwood",
+        "image": "https://cdn.animesoul.com/images/cards/5/1602340749346.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5f8266dacfcd615c4c3cac30"
+    },
+    "341": {
+        "name": "Tobi",
+        "image": "https://cdn.animesoul.com/images/cards/5/1596668907229.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5f2b3beb39e0d431ee8c13f9"
+    },
+    "342": {
+        "name": "Togame",
+        "image": "https://cdn.animesoul.com/images/cards/5/1572136744760.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5db4e7288ed9e66176623251"
+    },
+    "343": {
+        "name": "Tohka Yatogami",
+        "image": "https://cdn.animesoul.com/images/cards/5/1604913869003.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5e192fcaecd9c87085f55f18"
+    },
+    "344": {
+        "name": "Tomoe",
+        "image": "https://cdn.animesoul.com/images/cards/5/1572136764567.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5db4e73c8ed9e66176623252"
+    },
+    "345": {
+        "name": "Tomura",
+        "image": "https://cdn.animesoul.com/images/cards/5/1604913776242.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5de358974ecd7863e16a1dd6"
+    },
+    "346": {
+        "name": "Tooru Oikawa",
+        "image": "https://cdn.animesoul.com/images/cards/5/1593727992963.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5efe5bf8fc0fdf1358a32d71"
+    },
+    "347": {
+        "name": "Toshiro",
+        "image": "https://cdn.animesoul.com/images/cards/5/Toshiro;5;Bleach,Thousand_Year_Blood_War.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5d1e8358a5f79d12c938c3f9"
+    },
+    "348": {
+        "name": "Touka Kirishima",
+        "image": "https://cdn.animesoul.com/images/cards/5/Touka_Kirishima;5;Tokyo_Ghoul,Ghoul.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5d57539bc1fc102f955f9b06"
+    },
+    "349": {
+        "name": "Trafalgar Law",
+        "image": "https://cdn.animesoul.com/images/cards/5/1604357717594.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5f8266dacfcd615c4c3cac12"
+    },
+    "350": {
+        "name": "Tsukasa Shishio",
+        "image": "https://cdn.animesoul.com/images/cards/5/1588822204244.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5eb380bc3f56e245dfa23caf"
+    },
+    "351": {
+        "name": "Tsunade",
+        "image": "https://cdn.animesoul.com/images/cards/5/1572136791871.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5db4e7578ed9e66176623253"
+    },
+    "352": {
+        "name": "Tsuyu",
+        "image": "https://cdn.animesoul.com/images/cards/5/1599413206158.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5f551bd61922946fdccb53c6"
+    },
+    "353": {
+        "name": "Umaru Doma",
+        "image": "https://cdn.animesoul.com/images/cards/5/1578708957900.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5e192fddecd9c87085f55f19"
+    },
+    "354": {
+        "name": "Undertaker",
+        "image": "https://cdn.animesoul.com/images/cards/5/1602346706352.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5f8266dacfcd615c4c3cad48"
+    },
+    "355": {
+        "name": "Uraraka",
+        "image": "https://cdn.animesoul.com/images/cards/5/1572136813159.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5db4e76d8ed9e66176623254"
+    },
+    "356": {
+        "name": "Utaha Kasumigaoka",
+        "image": "https://cdn.animesoul.com/images/cards/5/1596669789595.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5f2b3f5dbf297e5d5e3a6c7b"
+    },
+    "357": {
+        "name": "Utsutsu Miya",
+        "image": "https://cdn.animesoul.com/images/cards/5/1585701133115.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5e83e10d8940967db94fe405"
+    },
+    "358": {
+        "name": "Vegeta",
+        "image": "https://cdn.animesoul.com/images/cards/5/1599413220189.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5f551be41922946fdccb53e9"
+    },
+    "359": {
+        "name": "Venoct",
+        "image": "https://cdn.animesoul.com/images/cards/5/1602340776808.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5f8266dacfcd615c4c3cac32"
+    },
+    "360": {
+        "name": "Victorique de Blois",
+        "image": "https://cdn.animesoul.com/images/cards/5/1572136841595.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5db4e7898ed9e66176623255"
+    },
+    "361": {
+        "name": "Vignette Tsukinose",
+        "image": "https://cdn.animesoul.com/images/cards/5/1599413240659.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5f551bf894c6d9700d34e99f"
+    },
+    "362": {
+        "name": "Weiss Schnee",
+        "image": "https://cdn.animesoul.com/images/cards/5/Weiss_Schnee;5;RWBY,Original.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5d3112776b245e5b11e59d55"
+    },
+    "363": {
+        "name": "Wendy Marvell",
+        "image": "https://cdn.animesoul.com/images/cards/5/Wendy_Marvell;5;Fairy_Tail,Dragon_Force.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5d57539bc1fc102f955f9b03"
+    },
+    "364": {
+        "name": "Whis",
+        "image": "https://cdn.animesoul.com/images/cards/5/Whis;5;Dragon_Ball,Original.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5d57539bc1fc102f955f9afe"
+    },
+    "365": {
+        "name": "Whisper",
+        "image": "https://cdn.animesoul.com/images/cards/5/1602339365774.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5f8266dacfcd615c4c3cabea"
+    },
+    "366": {
+        "name": "Yang Xiao Long",
+        "image": "https://cdn.animesoul.com/images/cards/5/Yang_Xiao_Long;5;RWBY,Original.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5d3112776b245e5b11e59d61"
+    },
+    "367": {
+        "name": "Yoko Littner",
+        "image": "https://cdn.animesoul.com/images/cards/5/1599415201872.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5db4e7a08ed9e66176623256"
+    },
+    "368": {
+        "name": "Yomi Takanashi",
+        "image": "https://cdn.animesoul.com/images/cards/5/Yomi_Takanashi;5;BlackRock_Shooter,Dead_Master.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5d57539bc1fc102f955f9b07"
+    },
+    "369": {
+        "name": "Yoshikage Kira",
+        "image": "https://cdn.animesoul.com/images/cards/5/1602340280559.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5f8266dacfcd615c4c3cac10"
+    },
+    "370": {
+        "name": "Yoshiko Tsushima",
+        "image": "https://cdn.animesoul.com/images/cards/5/1591045659381.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5ed56e1bd3d1f5251b66595e"
+    },
+    "371": {
+        "name": "Yoshino Himekawa",
+        "image": "https://cdn.animesoul.com/images/cards/5/1596689527818.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5e83e11c7f55767c69de5f7d"
+    },
+    "372": {
+        "name": "Yui",
+        "image": "https://cdn.animesoul.com/images/cards/5/Yui;5;Angel_Beats,Rockstar.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5d57539bc1fc102f955f9b01"
+    },
+    "373": {
+        "name": "Yukina Himeragi",
+        "image": "https://cdn.animesoul.com/images/cards/5/1596669823169.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5f2b3f7f8ecd115d6508761e"
+    },
+    "374": {
+        "name": "Yukina Minato",
+        "image": "https://cdn.animesoul.com/images/cards/5/1588822218208.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5eb380cad2492a4ad83ecf62"
+    },
+    "375": {
+        "name": "Yukio Okumura",
+        "image": "https://cdn.animesoul.com/images/cards/5/1584123016537.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5e6bcc88b257dd7446bb660c"
+    },
+    "376": {
+        "name": "Yuno",
+        "image": "https://cdn.animesoul.com/images/cards/5/1602379714206.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5f8266dbcfcd615c4c3cb26a"
+    },
+    "377": {
+        "name": "Yuno Gasai",
+        "image": "https://cdn.animesoul.com/images/cards/5/Yuno_Gasai;5;Future_Diary,Yandere.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5d57539bc1fc102f955f9b04"
+    },
+    "378": {
+        "name": "Yuri",
+        "image": "https://cdn.animesoul.com/images/cards/5/1591045676019.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5ed56e2c351c08259db592e6"
+    },
+    "379": {
+        "name": "Yuuko Kanoe",
+        "image": "https://cdn.animesoul.com/images/cards/5/1593728026854.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5efe5c1afc0fdf1358a32d76"
+    },
+    "380": {
+        "name": "Zabuza Momochi",
+        "image": "https://cdn.animesoul.com/images/cards/5/1602340822691.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5f8266dacfcd615c4c3cac36"
+    },
+    "381": {
+        "name": "Zen Wistaria",
+        "image": "https://cdn.animesoul.com/images/cards/5/1572136922825.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5db4e7da8ed9e66176623257"
+    },
+    "382": {
+        "name": "Zenitsu Agatsuma",
+        "image": "https://cdn.animesoul.com/images/cards/5/1599415222100.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5ed56e39d3d1f5251b66595f"
+    },
+    "383": {
+        "name": "Zeref",
+        "image": "https://cdn.animesoul.com/images/cards/5/1596669876673.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5f2b3fb405b012645ffaa03d"
+    },
+    "384": {
+        "name": "Zero Two and Hiro",
+        "image": "https://cdn.animesoul.com/images/cards/5/1580746773752.png",
+        "tier": "5",
+        "link": "https://animesoul.com/cards/info/5e384815f62b195e095d5acc"
+    }
+}

@@ -1,0 +1,7 @@
+discord.py[voice]
+pymongo[srv]
+pillow
+asyncpg
+apscheduler
+giphy_client
+numpy
