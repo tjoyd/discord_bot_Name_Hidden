@@ -50,21 +50,8 @@ class Events(commands.Cog):
                 print(ctx.guild,ctx.guild.id)
             raise error
           
-        @commands.Cog.listener('on_message')
-        async def log(self, message):
-            if message.channel.id not in [754653978381254778,761127926477226014,756872582925385749,751378943940100119,772484513221443584,783287192293212190]:
-                return
-            if message.author.bot == True:
-                return
-            guild = self.bot.get_guild(int(751378943625527301))
-            channel = guild.get_channel(839685872881500170)
-            await channel.send(message.channel.name+' : '+message.author.name+' : '+message.content)
-            for i in message.attachments:
-                f = await i.to_file()
-                await channel.send(file=f)
-            
-            
-            
+        
+
 
 def setup(client):
     client.add_cog(Events(client))
